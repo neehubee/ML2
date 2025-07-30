@@ -17,14 +17,6 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "cccd0c54",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
    "id": "dd8ca0ef",
    "metadata": {},
    "outputs": [],
