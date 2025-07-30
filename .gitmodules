@@ -1,3 +1,3 @@
-[submodule "subfolders/Kmeans--clustering"]
-	path = subfolders/Kmeans--clustering
+[submodule "Kmeans_clustering"]
+	path = Kmeans_clustering
 	url = https://github.com/neehubee/credit-customer-segmentation-kmeans.git
