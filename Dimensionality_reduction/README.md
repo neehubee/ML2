@@ -90,11 +90,4 @@ This project reflects:
 - Ability to write **clean, modular, and well-commented code**  
 - Practical ML problem-solving skills that go beyond just model fitting
 
----
-
-## 📫 Contact
-
-If you're a recruiter or collaborator interested in my work, feel free to connect:
-
-**Neehara Prajesh**  
-[LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)
+-
